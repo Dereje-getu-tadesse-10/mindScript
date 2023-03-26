@@ -1,0 +1,29 @@
+
+:root {
+    /** Colors */
+    --blue: #2563EB;
+    --violet: #7C3AED;
+    --pink: #DB2777;
+    --blue-60: rgba(37, 99, 235, 0.6);
+    --violet-60: rgba(124, 58, 237, 0.6);
+    --pink-60: rgba(219, 39, 119, 0.6);
+    --blue-30: rgba(37, 99, 235, 0.3);
+    --violet-30: rgba(124, 58, 237, 0.3);
+    --pink-30: rgba(219, 39, 119, 0.3);
+
+    /** Max Width */
+    --max-width: 1440px;
+
+    /** Border Radius */
+    --radius-md: 6px;
+    --radius-lg: 8px;
+    --radius-xl: 12px;
+    --radius-1xl: 16px;
+    --radius-2xl: 24px;
+    --radius-full: 9999px;
+
+    /** Border Width */
+    --border-width: 1px;
+    --border-width-2: 2px;
+    --border-width-3: 3px;
+}
