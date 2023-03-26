@@ -1,3 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
 
 :root {
     /** Colors */
@@ -10,6 +18,14 @@
     --blue-30: rgba(37, 99, 235, 0.3);
     --violet-30: rgba(124, 58, 237, 0.3);
     --pink-30: rgba(219, 39, 119, 0.3);
+    --white: #FFFFFF;
+    --black: #000000;
+
+    /** Font Sizes */
+    --font-size-base: clamp(1rem, 1.5vw, 1.125rem);
+    --font-size-2xl: clamp(1.5rem, 2.5vw, 2rem);
+    --font-size-3xl: clamp(1.875rem, 3.5vw, 2.5rem);
+    --font-size-4xl: clamp(2.25rem, 4.5vw, 3rem);
 
     /** Max Width */
     --max-width: 1440px;
