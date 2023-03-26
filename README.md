@@ -1,3 +1,1 @@
-### MindScript 
-
-# mindScript
+### MindScript
