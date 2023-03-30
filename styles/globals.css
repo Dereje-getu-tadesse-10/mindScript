@@ -6,7 +6,8 @@
     box-sizing: border-box;
 }
 
-
+/* danger:'#dc2626',
+danger2:'#ef4444 */
 :root {
     /** Colors */
     --blue: #2563EB;
@@ -20,6 +21,9 @@
     --pink-30: rgba(219, 39, 119, 0.3);
     --white: #FFFFFF;
     --black: #000000;
+    --success: #10b981;
+    --danger: #dc2626;
+    --danger-2: #ef4444;
 
     /** Font Sizes */
     --font-size-base: clamp(1rem, 1.5vw, 1.125rem);
